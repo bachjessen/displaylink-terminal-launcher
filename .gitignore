@@ -1,0 +1,19 @@
+# Generated application and release files
+build/
+dist/
+*.app
+*.dmg
+*.pkg
+
+# Apple signing material
+*.p12
+*.cer
+*.key
+*.provisionprofile
+
+# macOS metadata
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
