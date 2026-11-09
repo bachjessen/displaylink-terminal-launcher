@@ -58,6 +58,12 @@ The local build uses ad-hoc code signing. Public release artifacts are not Apple
 - Starting the launcher interrupts and restarts the existing DisplayLink user agent.
 - macOS privacy behavior can change between macOS releases.
 
+## Disclaimer
+
+This is an independent community project. It is not affiliated with, endorsed by, or supported by Synaptics or DisplayLink.
+
+DisplayLink is a trademark of its respective owner. This project does not distribute DisplayLink Manager. Users must obtain and install DisplayLink Manager separately from its official source.
+
 ## License
 
 MIT
